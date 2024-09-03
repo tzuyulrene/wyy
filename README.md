@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8"/>
-  <title>王妍 0120230248-个人简介</title>
+<title>王妍 0120230248-个人简介</title>
 </head>
   <body>
   姓名：王妍<br>
