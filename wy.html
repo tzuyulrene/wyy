@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <title>JS的三种引入方式</title>
+    <style>
+        h1 {color: red;}
+
+    </style>
+</head>
+<body>
+    <p>第一种：行内式（标签所在的行）</p>
+    <input type="button" value="点击我" onclick="alert('王妍')">
+    <a href="javascript:alert('第一种方式引入')"></a>
+
+    <h2>第二种:内嵌式(内嵌html5文档中)</h2>
+    <script>
+    console.log('第二种引入方式');
+    </script>
+
+    <div>第三种：外链式(通过JS文件)</div>
+    <script type="text/javascript"  src="wy01.JS"></script>
+</body>
+</html>
